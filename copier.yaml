@@ -1,2 +1,11 @@
 _answers_file: .config/copier-answers.default-repository.yaml
 _subdirectory: template
+
+contact:
+  type: str
+  help: "Contact email (person or team responsible for this project)"
+  default: "team@example.com"
+project_name:
+  type: str
+  help: "Project name to display in documentation"
+  default: "My Project"
