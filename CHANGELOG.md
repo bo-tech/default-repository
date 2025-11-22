@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add Sphinx documentation flake template using the shared `sphinx-builder`
+
 ## 0.0.3 - 2025-11-22
 
 - Use JSON5 for the renovate configuration
