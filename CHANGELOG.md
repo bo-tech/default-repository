@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.3 - 2025-11-22
 
 - Use JSON5 for the renovate configuration
 
