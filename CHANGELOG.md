@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.4 - 2025-12-05
 
 - Add Sphinx documentation flake template using the shared `sphinx-builder`
 
