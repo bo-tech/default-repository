@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Use pushd/popd in docs flake to restore the working directory during builds
+
 ## 0.0.4 - 2025-12-05
 
 - Add Sphinx documentation flake template using the shared `sphinx-builder`
