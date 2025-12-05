@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.5 - 2025-12-05
 
 - Use pushd/popd in docs flake to restore the working directory during builds
 
