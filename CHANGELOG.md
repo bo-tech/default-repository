@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+- Add complete Sphinx documentation setup (conf.py, index.rst, Makefile)
+- Add GitLab CI pipeline for docs build and Pages publishing
+- Add ADR (Architecture Decision Records) structure with template and initial 0000 ADR
+- Add `nix run` support to docs flake (apps.make, apps.default)
+- Add docs README with usage guidelines
+
 ## 0.0.5 - 2025-12-05
 
 - Use pushd/popd in docs flake to restore the working directory during builds
