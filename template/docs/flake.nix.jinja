@@ -16,6 +16,15 @@
         src = pkgs.lib.cleanSource ./..;
         projectSlug = "{{ project_name | lower | replace(' ', '-') }}";
         docName = "${projectSlug}-docs";
+
+        makeRunner = pkgs.writeShellApplication {
+          name = "docs-make";
+          runtimeInputs = [ builder.full-sphinx-env ];
+          text = ''
+            set -euo pipefail
+            exec make "$@"
+          '';
+        };
       in
       {
         packages.html = pkgs.stdenv.mkDerivation {
@@ -77,5 +86,8 @@
             builder.full-sphinx-env
           ];
         };
+
+        apps.default = flake-utils.lib.mkApp { drv = makeRunner; };
+        apps.make = flake-utils.lib.mkApp { drv = makeRunner; };
       });
 }
