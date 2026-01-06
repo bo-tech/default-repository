@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.6 - 2026-01-06
 
 - Add complete Sphinx documentation setup (conf.py, index.rst, Makefile)
 - Add GitLab CI pipeline for docs build and Pages publishing
