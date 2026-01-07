@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add pre-commit configuration with ruff and docformatter
+
 ## 0.0.6 - 2026-01-06
 
 - Add complete Sphinx documentation setup (conf.py, index.rst, Makefile)
