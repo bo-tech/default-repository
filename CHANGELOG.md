@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.7 - 2026-01-07
 
 - Add pre-commit configuration with ruff and docformatter
 
