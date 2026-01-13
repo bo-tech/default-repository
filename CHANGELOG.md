@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Add decisions README with ADR immutability guidance and cross-referencing docs
+- Add MyST cross-reference labels to ADRs (`adr-NNNN` pattern)
+
 ## 0.0.7 - 2026-01-07
 
 - Add pre-commit configuration with ruff and docformatter
