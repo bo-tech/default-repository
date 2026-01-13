@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.8 - 2026-01-13
 
 - Add decisions README with ADR immutability guidance and cross-referencing docs
 - Add MyST cross-reference labels to ADRs (`adr-NNNN` pattern)
