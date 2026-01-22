@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add .gitignore to docs folder to ignore _build directory
+
 ## 0.0.8 - 2026-01-13
 
 - Add decisions README with ADR immutability guidance and cross-referencing docs
