@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.9 - 2026-01-22
 
 - Add .gitignore to docs folder to ignore _build directory
 
