@@ -11,6 +11,7 @@ the template.
 
 ```
 copier copy https://gitlab.gitlab.k0s.lab.bo-tech.de/bv/templates/default-repository.git .
+copier copy gh:bo-tech/default-repository .
 ```
 
 
