@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Add GitHub usage example to README
+- Make sphinx-builder URL configurable with choice of internal GitLab or GitHub
+
 ## 0.0.9 - 2026-01-22
 
 - Add .gitignore to docs folder to ignore _build directory
