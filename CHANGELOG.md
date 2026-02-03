@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.10 - 2026-02-03
 
 - Add GitHub usage example to README
 - Make sphinx-builder URL configurable with choice of internal GitLab or GitHub
