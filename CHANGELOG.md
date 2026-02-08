@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add livehtml Makefile target for live-reloading docs preview
+
 ## 0.0.10 - 2026-02-03
 
 - Add GitHub usage example to README
