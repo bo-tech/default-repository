@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.11 - 2026-02-08
 
 - Add livehtml Makefile target for live-reloading docs preview
 
