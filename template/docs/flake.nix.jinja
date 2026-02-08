@@ -88,5 +88,6 @@
 
         apps.default = flake-utils.lib.mkApp { drv = makeRunner; };
         apps.make = flake-utils.lib.mkApp { drv = makeRunner; };
+        apps.watch = sphinx-builder.apps.${system}.watch;
       });
 }
