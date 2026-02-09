@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add language choice (python, rust, none) for pre-commit hooks
 - Add about page that includes README into Sphinx docs
 - Wrap contact email in angle brackets for proper markdown link
 - Forward watch app from sphinx-builder in docs flake

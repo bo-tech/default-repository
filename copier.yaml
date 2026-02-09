@@ -9,6 +9,14 @@ project_name:
   type: str
   help: "Project name to display in documentation"
   default: "My Project"
+language:
+  type: str
+  help: "Primary project language (controls pre-commit hooks)"
+  choices:
+    - python
+    - rust
+    - none
+  default: "python"
 sphinx_builder_url:
   type: str
   help: "Nix flake URL for sphinx-builder"
