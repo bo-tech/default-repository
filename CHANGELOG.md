@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.12 - 2026-02-09
 
 - Add language choice (python, rust, none) for pre-commit hooks
 - Add about page that includes README into Sphinx docs
