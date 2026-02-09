@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Wrap contact email in angle brackets for proper markdown link
 - Forward watch app from sphinx-builder in docs flake
 
 ## 0.0.11 - 2026-02-08
