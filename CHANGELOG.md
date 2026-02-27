@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.13 - 2026-02-27
 
 - Default sphinx-builder URL to Codeberg, keep internal GitLab as alternative
 - Remove GitHub option from sphinx-builder URL choices
