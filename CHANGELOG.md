@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.14 - 2026-06-17
 
 - Use ADR-NNNN prefix in ADR headlines (template and initial ADR)
 - Add repository visibility flag (public/internal/private/secret)
