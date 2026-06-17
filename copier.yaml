@@ -9,6 +9,15 @@ project_name:
   type: str
   help: "Project name to display in documentation"
   default: "My Project"
+visibility:
+  type: str
+  help: "Repository visibility (recorded for planning/context; see handbook)"
+  choices:
+    - public
+    - internal
+    - private
+    - secret
+  default: "public"
 language:
   type: str
   help: "Primary project language (controls pre-commit hooks)"
